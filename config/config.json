@@ -1,0 +1,7 @@
+{
+  "random_state": 42,
+  "test_fraction": 0.20,
+  "bootstrap_samples": 300,
+  "target": "yield_tonnes_per_hectare",
+  "risk_quantiles": [0.33, 0.67]
+}
